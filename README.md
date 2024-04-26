@@ -1,3 +1,3 @@
 # git-demo
 This is my first Git Repository <br>
-Author - Pradip Gadhe
+Author - Pradip Gadhe (MIT college)
